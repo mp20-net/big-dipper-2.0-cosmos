@@ -1,4 +1,4 @@
-const FORBOLE_URL = 'https://www.forbole.com';
+const mp20_URL = 'https://www.mp20.net';
 const BIG_DIPPER_URL = 'https://bigdipper.live';
 
 export const donateLink = {
@@ -11,20 +11,16 @@ export const footerLinks = [
     key: 'company',
     links: [
       {
-        key: 'forbole',
-        url: FORBOLE_URL,
+        key: 'mp20',
+        url: mp20_URL,
       },
       {
         key: 'stakeNow',
-        url: `${FORBOLE_URL}/stake-now`,
-      },
-      {
-        key: 'contact',
-        url: `${FORBOLE_URL}/contact`,
+        url: `${mp20_URL}/posts/osmo-staking/`,
       },
       {
         key: 'blog',
-        url: `${FORBOLE_URL}/blog`,
+        url: mp20_URL,
       },
     ],
   },
