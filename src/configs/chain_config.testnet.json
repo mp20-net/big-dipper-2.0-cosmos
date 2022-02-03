@@ -1,6 +1,6 @@
 {
-  "title": "Osmosis Block Explorer",
-  "network": "osmosis-1",
+  "title": "Osmosis Testnet Block Explorer",
+  "network": "osmosis-testnet-1",
   "icon": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/osmosis/icon.svg?sanitize=true",
   "logo": {
     "default": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/osmosis/logo.svg?sanitize=true"
@@ -22,7 +22,7 @@
     }
   },
   "extra": {
-    "desmosProfile": true,
+    "desmosProfile": false,
     "forboleX": false
   }
 }
